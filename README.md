@@ -1,2 +1,2 @@
 # lua-random
-A lua module works like random.choice in python
+A lua module works like random.choice() in python
